@@ -3,7 +3,7 @@ Up-to date resume of my skills, work and experience.
 
 # Experience and Employers
 
-### ARHS Bulgaria, Software Engineer, Sep 2023 - Present
+** ARHS Bulgaria, Software Engineer, Sep 2023 - Present **
 - Hired as .NET developer.
 
 ### Vocational School for Computer Programming and Innovation, Software Development Teacher and Mentor, Sep 2022 - Present
