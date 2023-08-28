@@ -2,24 +2,40 @@
 Up-to date resume of my skills, work and experience.
 
 # Experience and Employers
-- ARHS Bulgaria, Software Engineer, Sep 2023 - Present
-- Vocational School for Computer Programming and Innovation, Software Development Teacher and Mentor, Sep 2022 - Present
-- Scalefocus, Software Engineer, Mar 2022 - Aug 2023
-- Scalefocus Academy, Softwere Engineer Intern, Sep 2021 - Feb 2022
-- Sixty K Ltd.(60k), Technical Support Representative, Oct 2019 - Aug 2021
+
+ARHS Bulgaria, Software Engineer, Sep 2023 - Present
+- Hired as .NET developer.
+
+Vocational School for Computer Programming and Innovation, Software Development Teacher and Mentor, Sep 2022 - Present
+- Hired as a Software Development teacher. Teaching programming to highschoolers.
+- Preparing projects and exercises and grading them. Mentoring and guiding them through their projects.
+
+Scalefocus, Software Engineer, Mar 2022 - Aug 2023
+- Hired as .NET Developer.
+- Acquired skills in Angular, React , JS/TS, Material. Worked on cloud solutions with Azure
+- Developed and maintained a desktop app with UWP. Built unit and integration tests for code.
+  
+Scalefocus Academy, Softwere Engineer Intern, Sep 2021 - Feb 2022
+- Learning about .NET ecosystem and building solutions with it.
+- Studied .NET, ASP.NET Core/ASP.NET Core Identity, SQL/T-SQL-MS SQL, ADO.NET, EF Core, Identity Server 4, Microservices/APIs and Docker
+- Acquired certificate after completion and got a job offer as a .NET developer.
+
+Sixty K Ltd.(60k), Technical Support Representative, Oct 2019 - Aug 2021
+- Worked as tech support representitive in call center with english.
+- Working with colegues from Bulgaria and UK.
 
 # Projects and Work
+
+Web Development Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present
+- Teaching web development with ASP.NET to high schoolers.
+- Other subjects include EF Core, SQL, HTTP and Web protocols, OOP, Programming Principles and Patterns, MVC, JS, HTML&CSS, Bootstrap and other such tools.
+- Assigning and grading projects and guiding them through building solutions.
 
 Programming Mentor, Vocational School for Computer Programming and Innovation, Sep 2022 - Jul 2023
 - Mentoring high school students on their projects and solutions.
 - Subjects are .NET, C#, SQL and EF Core.
 - Assigning tasks and reviewing pull requests through the projects.
 - Guiding through building their solutions and making sure coding standards are met.
-
-Web Development Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present
-- Teaching web development with ASP.NET to high schoolers.
-- Other subjects include EF Core, SQL, HTTP and Web protocols, OOP, Programming Principles and Patterns, MVC, JS, HTML&CSS, Bootstrap and other such tools.
-- Assigning and grading projects and guiding them through building solutions.
 
 Reward System App, Scalefocus, Jun 2023 - Aug 2023
 - MERN(Mongo, Express, React, Node) app for receiving and giving points to colegues and earn rewards. Deployed with docker.
