@@ -1,9 +1,54 @@
 # Resume
 Up-to date resume of my skills, work and experience.
 
-# Experience
+# Experience and Employers
 - ARHS Bulgaria, Software Engineer, Sep 2023 - Present
-- Vocational School for Computer Programming and Innovation, Software Development Teacher, Sep 2022 - Present
+- Vocational School for Computer Programming and Innovation, Software Development Teacher and Mentor, Sep 2022 - Present
 - Scalefocus, Software Engineer, Mar 2022 - Aug 2023
 - Scalefocus Academy, Softwere Engineer Intern, Sep 2021 - Feb 2022
 - Sixty K Ltd.(60k), Technical Support Representative, Oct 2019 - Aug 2021
+
+# Projects and Work
+
+Programming Mentor, Vocational School for Computer Programming and Innovation, Sep 2022 - Jul 2023
+- Mentoring high school students on their projects and solutions.
+- Subjects are .NET, C#, SQL and EF Core.
+- Assigning tasks and reviewing pull requests through the projects.
+- Guiding through building their solutions and making sure coding standards are met.
+
+Web Development Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present
+- Teaching web development with ASP.NET to high schoolers.
+- Other subjects include EF Core, SQL, HTTP and Web protocols, OOP, Programming Principles and Patterns, MVC, JS, HTML&CSS, Bootstrap and other such tools.
+- Assigning and grading projects and guiding them through building solutions.
+
+Reward System App, Scalefocus, Jun 2023 - Aug 2023
+- MERN(Mongo, Express, React, Node) app for receiving and giving points to colegues and earn rewards. Deployed with docker.
+- Worked with 2 other developers on fixing bugs and adding new features. Team also had UI/UX designers and QA engineers. Used kanban board for tasks.
+
+Photography Platform App, Scalefocus, Nov 2022 - Jun 2023
+- Desktop and tablet application for contractor client that connects to an external camera for photographers.
+- Get images taken with assistant or from SD card. Import images to device and send them to a private cloud. Support for Cannon, Nikon and QR scanning.
+- Built with .NET Framework/Standard/Core, UWP, XAML, EF Core, SQLite using SOAP to send images to the cloud and published to Microsoft Store (NowCandid).
+- Worked with Nikon/Canon SDK and WPD Library for image transferring and communicating to device.
+- Assigned to work on new features, fix bugs and publish new versions to the MS store.
+- Organize meetings and discuss further steps and tasks with client.
+
+Work Time Tracking App, Scalefocus, Jul 2022 - Nov 2022
+- System to track employee work time, tasks and on what it was spent.
+- Built with ASP.NET MVC, Razor pages, Dapper, MSSQL and deployed with IIS Express on a virtual machine.
+- Worked with 2 other developers on fixing bugs and add tests.
+
+Event Tracker System, Scalefocus, Mar 2022 - Jul 2022
+- Web App allowing users to subscribe to events and receive notifications on when and where events will be held and giving access to a blog about said events.
+- Built with ASP.NET Core, MSSQL, EF Core, Angular, deployed app with Azure web apps and deployed database with Azure SQL Database.
+- Worked in a team of 7 developers using agile scrum.
+
+Workforce Management API, Scalefocus Academy, Sep 2021 - Feb 2022
+- RESTful API used to track who is in the office and track vacations and sick leaves.
+- Built with ASP.NET Core, ASP.NET Identity, EF Core, MSSQL, xUnit, Moq and Identity Server 4 and used NTier architecture, later deployed in container with Docker.
+- Worked in a team of 5 developers using agile scrum methodology.
+
+Sky Ltd. UK, Sixty K Ltd.(60k), Oct 2019 - Aug 2021
+- Technical Support for internet, phone and TV services.
+- Troubleshooting and resolving technical problems with clients in english.
+
