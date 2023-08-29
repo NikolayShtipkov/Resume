@@ -67,3 +67,19 @@ Up-to date resume of my skills, work and experience.
 **Sky Ltd. UK, Sixty K Ltd.(60k), Oct 2019 - Aug 2021**
 - Technical Support for internet, phone and TV services.
 - Troubleshooting and resolving technical problems with clients in english.
+
+# Skills
+
+**Back-End and Data**
+- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL
+- Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns, Azure/DevOps, Azure Web Apps, Azure SQL Database
+
+**Front-End and Other**
+- JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT
+
+**Languages**
+- English – Professional, Bulgarian - Native
+
+**Dev Tools**
+- Git/GitHub/GitLab/BitBucket, Visual Studio/ VS Code, Azure DevOps/Azure Portal, Postman/Swagger
+- Visual Studio/ VS Code, JetBrains WebStorm, SQL Server Management Studio/PopSQL
