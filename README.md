@@ -83,3 +83,20 @@ Up-to date resume of my skills, work and experience.
 **Dev Tools**
 - Git/GitHub/GitLab/BitBucket, Visual Studio/ VS Code, Azure DevOps/Azure Portal, Postman/Swagger
 - Visual Studio/ VS Code, JetBrains WebStorm, SQL Server Management Studio/PopSQL
+
+# Education
+
+**Software University (SoftUni), Sofia, Jun 2018 - Sep 2019**
+- Basics and Fundamentals with C# and Javascript
+- Fundamentals in front-end development and Node.js
+
+**Vocational High school for building and architecture, Plovdiv, Graduated May 2018**
+- Highschool education
+
+# Certification
+
+**Azure Fundamentals (AZ-900), Nucrosoft Certificate, Aquired Apr 2022**
+- Acquired certificate after passing exam AZ-900
+
+**Scalefocus Academy, .NET Certificate, Aquired Feb 2022**
+- Acquired certificate for completing .NET academy/intership
