@@ -39,7 +39,8 @@ Up-to date resume of my skills, work and experience.
 
 **Reward System App, Scalefocus, Jun 2023 - Aug 2023**
 - MERN(Mongo, Express, React, Node) app for receiving and giving points to colegues and earn rewards. Deployed with docker.
-- Worked with 2 other developers on fixing bugs and adding new features. Team also had UI/UX designers and QA engineers. Used kanban board for tasks.
+- Assigned to fix bugs and develop new features for the app.
+- Worked in a team of 10 people of which developers, UI/UX designers, QA Engineers and DevOps.
 
 **Photography Platform App, Scalefocus, Nov 2022 - Jun 2023**
 - Desktop and tablet application for contractor client that connects to an external camera for photographers.
@@ -47,7 +48,7 @@ Up-to date resume of my skills, work and experience.
 - Built with .NET Framework/Standard/Core, UWP, XAML, EF Core, SQLite using SOAP to send images to the cloud and published to Microsoft Store (NowCandid).
 - Worked with Nikon/Canon SDK and WPD Library for image transferring and communicating to device.
 - Assigned to work on new features, fix bugs and publish new versions to the MS store.
-- Organize meetings and discuss further steps and tasks with client.
+- Worked directly with client. Organize meetings and discuss further steps and tasks with client.
 
 **Work Time Tracking App, Scalefocus, Jul 2022 - Nov 2022**
 - System to track employee work time, tasks and on what it was spent.
@@ -57,7 +58,7 @@ Up-to date resume of my skills, work and experience.
 **Event Tracker System, Scalefocus, Mar 2022 - Jul 2022**
 - Web App allowing users to subscribe to events and receive notifications on when and where events will be held and giving access to a blog about said events.
 - Built with ASP.NET Core, MSSQL, EF Core, Angular, deployed app with Azure web apps and deployed database with Azure SQL Database.
-- Worked in a team of 7 developers using agile scrum.
+- Worked in a team of 8 developers using agile scrum.
 
 **Workforce Management API, Scalefocus Academy, Sep 2021 - Feb 2022**
 - RESTful API used to track who is in the office and track vacations and sick leaves.
@@ -67,6 +68,7 @@ Up-to date resume of my skills, work and experience.
 **Sky Ltd. UK, Sixty K Ltd.(60k), Oct 2019 - Aug 2021**
 - Technical Support for internet, phone and TV services.
 - Troubleshooting and resolving technical problems with clients in english.
+- Work in a team of 15 other technical support specialists.
 
 # Skills
 
