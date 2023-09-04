@@ -26,7 +26,7 @@ Up-to date resume of my skills, work and experience.
 
 # Projects and Work
 
-**Web Development Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present**
+**Programming Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present**
 - Teaching web development with ASP.NET to high schoolers.
 - Other subjects include EF Core, SQL, HTTP and Web protocols, OOP, Programming Principles and Patterns, MVC, JS, HTML&CSS, Bootstrap and other such tools.
 - Assigning and grading projects and guiding them through building solutions.
