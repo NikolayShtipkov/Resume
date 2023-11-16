@@ -73,11 +73,11 @@ Up-to date resume of my skills, work and experience.
 # Skills
 
 **Back-End and Data**
-- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL
-- Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns, Azure/DevOps, Azure Web Apps, Azure SQL Database
+- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL
+- Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns/MVC, Azure/DevOps, Azure Web Apps, Azure SQL Databases/Server, Azure Service Bus, Ocelote, RabbitMQ
 
 **Front-End and Other**
-- JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT
+- JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT, Razor pages/cshtml
 
 **Languages**
 - English – Professional, Bulgarian - Native
