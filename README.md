@@ -57,7 +57,9 @@ Up-to date resume of my skills, work and experience.
 
 **Event Tracker System, Scalefocus, Mar 2022 - Jul 2022**
 - Web App allowing users to subscribe to events and receive notifications on when and where events will be held and giving access to a blog about said events.
-- Built with ASP.NET Core, MSSQL, EF Core, Angular, deployed app with Azure web apps and deployed database with Azure SQL Database.
+- 2 RESTful APIs connecting to SQL databases and Angular front-end that consumes APIs.
+- Used repository, unit of work, CQRS patterns.
+- Built with ASP.NET Core, Ocelote, MSSQL, EF Core, Angular, deployed app with Azure web apps and deployed database with Azure SQL Database.
 - Worked in a team of 8 developers using agile scrum.
 
 **Workforce Management API, Scalefocus Academy, Sep 2021 - Feb 2022**
