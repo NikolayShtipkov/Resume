@@ -46,7 +46,7 @@ Up-to date resume of my skills, work and experience.
 - Desktop and tablet application for contractor client that connects to an external camera for photographers.
 - Get images taken with assistant or from SD card. Import images to device and send them to a private cloud. Support for Cannon, Nikon and QR scanning.
 - Built with .NET Framework/Standard/Core, UWP, XAML, EF Core, SQLite using SOAP to send images to the cloud and published to Microsoft Store (NowCandid).
-- Worked with Nikon/Canon SDK and WPD Library for image transferring and communicating to device.
+- Worked with Nikon/Canon SDK and WPD(Windows Portable Device) Library for image transferring and communicating to device.
 - Assigned to work on new features, fix bugs and publish new versions to the MS store.
 - Worked directly with client. Organize meetings and discuss further steps and tasks with client.
 
