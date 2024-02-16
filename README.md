@@ -27,6 +27,18 @@ Up-to date resume of my skills, work and experience.
 
 # Projects and Work
 
+**Metadata App, Aris, Nov 2023 - Mar 2024**
+- Windows forms desctop application with SQL database using ADO.NET and Entityframework.
+- Application to process SQL and feed web application with JSON representation of metadata.
+- Assigned to develop and maintain windows forms app.
+- Worked in a team of 3 developers.
+
+**Tax Information App, Aris, Sep 2023 - Mar 2024**
+- ASP.NET MVC App with API microservices that feed information.
+- Web application to get tax information and actions.
+- Assigned to develop and maintain microservices and mvc app.
+- Worked in a team of 4 developers.
+
 **Programming Teacher, Vocational School for Computer Programming and Innovation, Sep 2022 - Present**
 - Teaching web development with ASP.NET to high schoolers.
 - Other subjects include EF Core, SQL, HTTP and Web protocols, OOP, Programming Principles and Patterns, MVC, JS, HTML&CSS, Bootstrap and other such tools.
