@@ -28,7 +28,7 @@ Up-to date resume of my skills, work and experience.
 # Projects and Work
 
 **Metadata App, Aris, Nov 2023 - Mar 2024**
-- Windows forms desctop application with SQL database using ADO.NET and Entityframework.
+- Windows forms desktop application with SQL database using ADO.NET and Entityframework.
 - Application to process SQL and feed web application with JSON representation of metadata.
 - Assigned to develop and maintain windows forms app.
 - Worked in a team of 3 developers.
@@ -88,7 +88,7 @@ Up-to date resume of my skills, work and experience.
 # Skills
 
 **Back-End and Data**
-- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL
+- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL, Windows Forms
 - Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns/MVC, Azure/DevOps, Azure Web Apps, Azure SQL Databases/Server, Azure Service Bus, Ocelote, RabbitMQ
 
 **Front-End and Other**
