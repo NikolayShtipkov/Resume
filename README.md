@@ -3,9 +3,15 @@ Up-to date resume of my skills, work and experience.
 
 # Experience and Employers
 
+**Triple+ Ltd., Software Engineer, Sep 2023 - Mar 2024**
+- Hired as .NET developer.
+- Worked on Azure Service Fabric applications connecting microservices and databases
+- Worked on Azure Cloud Services app that is used as backend for multiple front end Web Apps and mobile app
+
 **ARHS Bulgaria, Software Engineer, Sep 2023 - Mar 2024**
 - Hired as .NET developer.
-- Worked on MVC Web app, Microservices and windows forms app.
+- Worked on MVC Web app with Microservices using cloud service with Azure
+- Worked on Windows Forms(WinForms) desktop app that connects to Web services in Azure.
 
 **Vocational School for Computer Programming and Innovation, Software Development Teacher and Mentor, Sep 2022 - Present**
 - Hired as a Software Development teacher. Teaching programming to highschoolers.
@@ -88,8 +94,9 @@ Up-to date resume of my skills, work and experience.
 # Skills
 
 **Back-End and Data**
-- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL, Windows Forms(WinForms)
-- Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns/MVC, Azure/DevOps, Azure Web Apps, Azure SQL Databases/Server, Azure Service Bus, Ocelote, RabbitMQ
+- .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL, Windows Forms(WinForms),
+- Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns/MVC, Azure/DevOps, Azure Web Apps, Azure SQL Databases/Server, Azure Service Bus, Azure Service Fabric, Ocelote, RabbitMQ
+- Azure Service Fabric, Azure Cloud Services, Azure Cosmos DB
 
 **Front-End and Other**
 - JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT, Razor pages/cshtml
