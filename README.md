@@ -33,6 +33,16 @@ Up-to date resume of my skills, work and experience.
 
 # Projects and Work
 
+**Cloud Services Monitoring Platform**
+- Cloud services project powering web and mobile platforms
+- Built with Azure Cloud Services and .NET framework
+- Provides data for device monitoring purposes
+- Visualizes data from IoT devices and presents it to the end user
+- Uses EF and dapper for data access, implemented with CQRS pattern
+- Unit and Integration testing with NUnit
+- Can read, write and change state of devices
+- Worked with a team of 10 people of which 3 back end devs, 3 front-end, 3 QA and a project manager
+
 **Metadata App, Aris, Nov 2023 - Mar 2024**
 - Windows forms(WinForms) desktop application with SQL database using ADO.NET and Entityframework.
 - Application to process SQL and feed web application with JSON representation of metadata.
@@ -96,7 +106,7 @@ Up-to date resume of my skills, work and experience.
 **Back-End and Data**
 - .NET/C#, SQL/MS SQL/T-SQL, EF Core/Dapper/ADO.NET, LINQ, APIs/REST, ASP.NET API/MVC Web Applications/MVC, Unit Testing/xUnit/NUnit/Moq/Integration Testing, MySQL/PostgreSQL, Windows Forms(WinForms),
 - Agile Scrum Methodologies, CQRS/Mediator/Observer/Repository patterns/MVC, Azure/DevOps, Azure Web Apps, Azure SQL Databases/Server, Azure Service Bus, Azure Service Fabric, Ocelote, RabbitMQ
-- Azure Service Fabric, Azure Cloud Services, Azure Cosmos DB
+- Azure Service Fabric, Azure Cloud Services, Azure Cosmos DB, Azure Application Insights
 
 **Front-End and Other**
 - JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT, Razor pages/cshtml
