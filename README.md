@@ -4,12 +4,15 @@ Up-to date resume of my skills, work and experience.
 # Experience and Employers
 
 **Triple+ Ltd., Software Engineer, Sep 2023 - Mar 2024**
-- Hired as .NET developer.
-- Worked on Azure Service Fabric applications connecting microservices and databases
+- Hired as .NET/Cloud developer.
+- Product company that develops IoT devices that work as sensors for multiple events
+- Worked on Cloud and Back-End solutions to capture data from IoT devices and process it for certain needs
+- Worked on projects that connect IoT with back-end
+- Worked on Azure Service Fabric Apps and APIs connecting microservices and databases
 - Worked on Azure Cloud Services app that is used as backend for multiple front end Web Apps and mobile app
 
 **ARHS Bulgaria, Software Engineer, Sep 2023 - Mar 2024**
-- Hired as .NET developer.
+- Hired as .NET/Cloud developer.
 - Worked on MVC Web app with Microservices using cloud service with Azure
 - Worked on Windows Forms(WinForms) desktop app that connects to Web services in Azure.
 
