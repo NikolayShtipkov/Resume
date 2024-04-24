@@ -33,13 +33,24 @@ Up-to date resume of my skills, work and experience.
 
 # Projects and Work
 
+**Service Fabric Scheduler API, Triple+, Apr 2024 - Present**
+- Service fabric API for scheduling daily and hourly data extraction
+- Build with Azure Service Fabric and .NET 6/8
+- Takes statistic data from IoT devices and inserts it into Azure Cosmos DB
+- Uses Service Fabric Actors for handling starting/stopping operations
+- Can populate Cosmos DB for specific date ranges as well
+- Data is then used for yearly/monthly/daily statistics about device state and events occured
+- Uses EF and dapper for data access with SQL and Cosmos DB
+- Unit and Integration testing with NUnit
+- Worked with a team of 4 people of which 3 back end devs and a project manager
+
 **Service Fabric Notification API, Triple+, Mar 2024 - Present**
 - Service fabric API for sending norification about IoT devices state
 - Build with Azure Service Fabric and .NET Framework
 - Takes data from IoT devices and preocesses it
 - Exposes endpoints for reading data from devices
 - Sends notifications to users about their devices via SMS, Email, Phone and other methods
-- Uses EF and dapper for data access
+- Uses EF and dapper for SQL data access
 - Unit and Integration testing with NUnit
 - Worked with a team of 4 people of which 3 back end devs and a project manager
 
