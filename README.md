@@ -33,7 +33,17 @@ Up-to date resume of my skills, work and experience.
 
 # Projects and Work
 
-**Cloud Services Monitoring Platform**
+**Service Fabric Notification API, Triple+, Mar 2024 - Present**
+- Service fabric API for sending norification about IoT devices state
+- Build with Azure Service Fabric and .NET Framework
+- Takes data from IoT devices and preocesses it
+- Exposes endpoints for reading data from devices
+- Sends notifications to users about their devices via SMS, Email, Phone and other methods
+- Uses EF and dapper for data access
+- Unit and Integration testing with NUnit
+- Worked with a team of 4 people of which 3 back end devs and a project manager
+
+**Cloud Services Monitoring Platform, Triple+, Mar 2024 - Present**
 - Cloud services project powering web and mobile platforms
 - Built with Azure Cloud Services and .NET framework
 - Provides data for device monitoring purposes
