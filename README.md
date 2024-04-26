@@ -45,6 +45,7 @@ Up-to date resume of my skills, work and experience.
 - Data is then used for yearly/monthly/daily statistics about device state and events occured
 - Uses EF and dapper for data access with SQL and Cosmos DB
 - Unit and Integration testing with NUnit
+- Uses microservices architecture and actor model pattern for different schedules
 - Worked with a team of 4 people of which 3 back end devs and a project manager
 
 **Service Fabric Notification API, Triple+, Mar 2024 - Present**
@@ -55,6 +56,7 @@ Up-to date resume of my skills, work and experience.
 - Sends notifications to users about their devices via SMS, Email, Phone and other methods
 - Uses EF and dapper for SQL data access
 - Unit and Integration testing with NUnit
+- Uses microservices architecture
 - Worked with a team of 4 people of which 3 back end devs and a project manager
 
 **Cloud Services Monitoring Platform, Triple+, Mar 2024 - Present**
@@ -62,9 +64,10 @@ Up-to date resume of my skills, work and experience.
 - Built with Azure Cloud Services and .NET framework
 - Provides data for device monitoring purposes
 - Visualizes data from IoT devices and presents it to the end user
-- Uses EF and dapper for data access, implemented with CQRS pattern
+- Uses EF and dapper for data access
 - Unit and Integration testing with NUnit
 - Can read, write and change state of devices
+- Uses microservices architecture and CQRS pattern
 - Worked with a team of 10 people of which 3 back end devs, 3 front-end, 3 QA and a project manager
 
 **Metadata App, Aris, Nov 2023 - Mar 2024**
