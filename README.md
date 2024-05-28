@@ -136,7 +136,7 @@ Up-to date resume of my skills, work and experience.
 - Azure Service Fabric, Azure Cloud Services, Azure Cosmos DB, Azure Application Insights
 
 **Front-End and Other**
-- JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT, Razor pages/cshtml
+- JavaScript/TypeScript, Angular, Node.js/Npm, HTML/CSS, Bootstrap/Material, UWP/XAML, JSON/JWT, Razor pages/cshtml, SignalR
 
 **Languages**
 - English – Professional, Bulgarian - Native
