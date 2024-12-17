@@ -3,7 +3,7 @@ Up-to date resume of my skills, work and experience.
 
 # Experience and Employers
 
-**Triple+ Ltd., Software Engineer, Sep 2023 - Mar 2024**
+**Triple+ Ltd., Software Engineer, Feb 2024 - Present**
 - Hired as .NET/Cloud developer.
 - Product company that develops IoT devices that work as sensors for multiple events
 - Worked on Cloud and Back-End solutions to capture data from IoT devices and process it for certain needs
